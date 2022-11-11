@@ -40,7 +40,7 @@
 
   <assign|html-css|../resources/notes-base.css>
 
-  <assign|html-head-favicon|../resources/lambda-wedge.png>
+  <assign|html-head-favicon|../resources/blog-icon.png>
 
   <assign|html-extra-javascript-src|<tuple|../resources/highlight.pack.js|../resources/notes-base.js>>
 
@@ -58,7 +58,7 @@
 
   <assign|notes-header-name|Notes on Geometric Algebra>
 
-  <assign|notes-header-image|<image|../resources/lambda-wedge.png|30pt|||>>
+  <assign|notes-header-image|<image|../resources/blog-icon.png|30pt|||>>
 
   <assign|notes-header-links|<macro|<hlink|[main]|./main.tm>>>
 
